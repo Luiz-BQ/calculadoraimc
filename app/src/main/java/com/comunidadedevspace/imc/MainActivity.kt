@@ -40,11 +40,10 @@ class MainActivity : AppCompatActivity() {
                 intent.putExtra(KEY_RESULT_IMC,resultado)
                 startActivity(intent)
 
-                println("Luiz Barth clicou no botão" + resultado)
-                // Navegar para proxima tela
-                // Criar o layout da proxima tela
-                // Passar os dados (resultado) para proxima tela
-                // Intent - Classe do Android
+                //Cores
+                //Edit text background + icone
+                //Gradiente + icone + titulo + descrição
+
             }
         }
     }
